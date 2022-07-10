@@ -1,4 +1,8 @@
-"""main"""
+import logging
+logging.basicConfig(level=logging.INFO)
+import subprocess
+
+logger = logging.getLogger(__name__)
 
 
 def main():
