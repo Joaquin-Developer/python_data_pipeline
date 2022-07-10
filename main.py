@@ -3,6 +3,7 @@
 
 def main():
     """Main method"""
+    return "main"
 
 
 if __name__ == "__main__":
